@@ -1,0 +1,39 @@
+{
+			"Name": "fistGallery",
+			"mediaList": [{
+				"imagePath": "https://robohash.org/1",
+				"imageTitle": "1",
+				"imageDesc": "desc 1"
+			}, {
+				"imagePath": "https://robohash.org/2",
+				"imageTitle": "other title",
+				"imageDesc": "some Desc"
+			}, {
+				"imagePath": "https://robohash.org/3",
+				"imageTitle": "third image",
+				"imageDesc": "third imagedesc"
+			},{
+				"imagePath": "https://robohash.org/4",
+				"imageTitle": "4 image",
+				"imageDesc": "4 imagedesc"
+			},{
+				"imagePath": "https://robohash.org/5",
+				"imageTitle": "5 image",
+				"imageDesc": "5 imagedesc"
+			},{
+				"imagePath": "https://robohash.org/6",
+				"imageTitle": "6 image",
+				"imageDesc": "6 imagedesc"
+			},{
+				"imagePath": "https://robohash.org/7",
+				"imageTitle": "7 image",
+				"imageDesc": "7 imagedesc"
+			},{
+				"imagePath": "https://robohash.org/8",
+				"imageTitle": "8 image",
+				"imageDesc": "8 imagedesc"
+			}],
+
+			"leftImg": "https://raw.githubusercontent.com/stephenhutchings/typicons.font/master/src/png-48px/arrow-left-outline.png",
+			"rightImg": "https://raw.githubusercontent.com/stephenhutchings/typicons.font/master/src/png-48px/arrow-right-outline.png"
+		}
